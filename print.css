@@ -1,0 +1,9 @@
+ol a {
+	text-decoration: none;
+}
+#nav, #blurb, #biblio, a.read {
+	display: none;
+}
+body {
+	font-size: 12pt;
+}

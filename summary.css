@@ -1,0 +1,10 @@
+ol li {
+	padding-bottom: 1em;
+}
+#content {
+	padding: 1ex;
+}
+.read {
+	padding-left: 40px;
+	background: url(book.gif) no-repeat 10px 50%;
+}

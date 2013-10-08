@@ -1,0 +1,48 @@
+body {
+	background: url(map.jpg) no-repeat black;
+}
+#branding {
+	background: url(map_faded.jpg) no-repeat 0 0 fixed;
+	padding: 1ex;
+}
+#map {
+	list-style: none;
+	font-size: smaller;
+}
+#map dd {
+	display: none;
+}
+#map dt {
+	color: white;
+	background: url(translucent.png);
+	display: inline;
+}
+#map li:hover dd {
+	margin: 0;
+	padding: 1%;
+	display: block;
+	position: fixed;
+	width: 98%;
+	bottom: 0;
+	left: 0;
+	background: url(map_faded.jpg) no-repeat 0 0 fixed;
+	border: 1px solid;
+}
+#biblio {
+	display: none;
+}
+#troy {position: fixed; left: 803px; top: 344px;}
+#ismaros {position: fixed; left: 768px; top: 298px;}
+#lotus {position: fixed; left: 344px; top: 545px;}
+#cyclops {position: fixed; left: 438px; top: 434px;}
+#aeolia {position: fixed; left: 408px; top: 456px;}
+#telepylos {position: fixed; left: 300px; top: 443px;}
+#aeaea {position: fixed; left: 176px; top: 334px;}
+#landofdead {position: fixed; left: 98px; top: 312px;}
+#sirens {position: fixed; left: 322px; top: 371px;}
+#scylla {position: fixed; left: 514px; top: 410px;}
+#helios {position: fixed; left: 478px; top: 494px;}
+#calypso {position: fixed; left: 132px; top: 348px;}
+#phaeaecia {position: fixed; left: 332px; top: 296px;}
+#ithaca {position: fixed; left: 671px; top: 418px;}
+
