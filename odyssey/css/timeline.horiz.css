@@ -9,7 +9,7 @@ ol {
 	margin: 0; padding: 0;
 }
 ol li {
-	background: url(arrow.gif) no-repeat 18px -20px;
+	background: url(../images/arrow.gif) no-repeat 18px -30px;
 	border-top: 3px solid;
 	padding: 1em;
 	padding-top: 2em;
@@ -18,7 +18,7 @@ ol li {
 	float: left;
 }
 ol li:hover {
-	background: url(arrow.gif) no-repeat 18px -20px #eef;
+	background: url(../images/arrow.gif) no-repeat 18px -30px #eef;
 }
 #biblio {
 	position: absolute;

@@ -1,8 +1,8 @@
 body {
-	background: url(map.jpg) no-repeat black;
+	background: url(../images/map.jpg) no-repeat black;
 }
 #branding {
-	background: url(map_faded.jpg) no-repeat 0 0 fixed;
+	background: url(../images/map_faded.jpg) no-repeat 0 0 fixed;
 	padding: 1ex;
 }
 #map {
@@ -14,7 +14,7 @@ body {
 }
 #map dt {
 	color: white;
-	background: url(translucent.png);
+	background: url(../images/translucent.png);
 	display: inline;
 }
 #map li:hover dd {
@@ -25,7 +25,7 @@ body {
 	width: 98%;
 	bottom: 0;
 	left: 0;
-	background: url(map_faded.jpg) no-repeat 0 0 fixed;
+	background: url(../images/map_faded.jpg) no-repeat 0 0 fixed;
 	border: 1px solid;
 }
 #biblio {
