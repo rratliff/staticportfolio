@@ -116,5 +116,8 @@ li {
     </li>
 </ul>
 </div>
+<!--#if expr='${APPLICATION_ENV} = production' -->
+<!--#include virtual="piwik.html" -->
+<!--#endif -->
 </body>
 </html>
