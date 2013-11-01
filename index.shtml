@@ -116,7 +116,7 @@ li {
     </li>
 </ul>
 </div>
-<!--#if expr='${APPLICATION_ENV} = production' -->
+<!--#if expr="%{SERVER_NAME} == 'bobbyratliff.nfshost.com'" -->
 <!--#include virtual="piwik.html" -->
 <!--#endif -->
 </body>
