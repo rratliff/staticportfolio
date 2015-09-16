@@ -1,9 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <title>R. W. R. Portfolio</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width">
 <style type="text/css">
 #content {
   width: 60%;
@@ -57,6 +57,7 @@ li {
     background: #333;
     border: 1px solid black;
     padding: 3px;
+    line-height: 0;
 }
 .link a img {
     border: none;
@@ -75,7 +76,7 @@ li {
         <div class="tile">
             <div class="link">
                 <a href="odyssey/">
-                    <img src="screenshots/odyssey.png" alt="" width="200" height="100" /></a></div>
+                    <img src="screenshots/odyssey.png" alt="" width="200" height="100"></a></div>
             <a href="odyssey/">Report on Homer's <em>The Odyssey</em></a> (2005)
         </div>
     </li>
@@ -83,7 +84,7 @@ li {
         <div class="tile">
             <div class="link">
                 <a href="fatherbrown/">
-                    <img src="screenshots/father-brown.png" alt="" width="200" height="100" /></a></div>
+                    <img src="screenshots/father-brown.png" alt="" width="200" height="100"></a></div>
             <a href="fatherbrown/">Father Brown</a> (2008)
         </div>
     </li>
@@ -91,7 +92,7 @@ li {
         <div class="tile">
             <div class="link">
                 <a href="/">
-                    <img src="screenshots/blog-20131030.png" alt="" width="200" height="100" /></a></div>
+                    <img src="screenshots/blog-20131030.png" alt="" width="200" height="100"></a></div>
             <a href="/">Blog</a> (2011-present)
         </div>
     </li>
@@ -99,7 +100,7 @@ li {
         <div class="tile">
             <div class="link">
                 <a href="/postvoting/">
-                    <img src="screenshots/post-voting.png" alt="" width="200" height="100" /></a></div>
+                    <img src="screenshots/post-voting.png" alt="" width="200" height="100"></a></div>
             <a href="/postvoting/">Post Voting App</a> (2013)
         </div>
     </li>
@@ -110,7 +111,7 @@ li {
         <div class="tile">
             <div class="link">
                 <a href="http://web.stcloudstate.edu/stratliff/">
-                    <img src="screenshots/steven.png" alt="" width="200" height="100" /></a></div>
+                    <img src="screenshots/steven.png" alt="" width="200" height="100"></a></div>
             <a href="http://web.stcloudstate.edu/stratliff/">Professor Steven T. Ratliff</a> (2008)
         </div>
     </li>
