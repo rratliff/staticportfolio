@@ -117,8 +117,6 @@ li {
     </li>
 </ul>
 </div>
-<!--#if expr="%{SERVER_NAME} == 'bobbyratliff.nfshost.com'" -->
-<!--#include virtual="piwik.html" -->
-<!--#endif -->
+<!--#include virtual="piwik.shtml" -->
 </body>
 </html>
